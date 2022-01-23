@@ -1,0 +1,32 @@
+body {
+    background-color: #faffc6;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    font-size: 31px;
+    width: 270px;
+    height: 270px;
+    color: #acfcff;
+    background-color: #211f75;
+    border-radius: 150px;
+    box-shadow: 0px 0px 20px #acfcff;
+}
+
+p {
+    padding: 100px 0px;
+}
+
+.zoom {
+    transform: rotate(360deg);
+    transition: transform 1500ms;
+}
+
+.instruct {
+    color: #896b3f;
+}
+
+.onn {
+    display: none;
+}
