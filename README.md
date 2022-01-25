@@ -1,2 +1,2 @@
 # new-year
-checkout - https://h-chandan.github.io/new-year/
+checkout - https://harichandanmohanty.github.io/new-year/
